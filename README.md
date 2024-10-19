@@ -2,7 +2,8 @@
 
 **Whiskique** is a company which sales pet products online. I have been hired as an analyst and have to analyze a dataset to create a report (dashboard-style) that will answer questions about the company's overall performance and opportunities for improvement.
 
-![image (1)](https://github.com/user-attachments/assets/6e5040b0-001e-4825-8062-0c13f4d438d7)
+![image](https://github.com/user-attachments/assets/26ca1d24-0d3e-4aa8-8c35-1ae8b742e1d0)
+
 
 
 In this project I learned how to Import Data, Clean Data in Power Query, Model, DAX queries, Visualisations 
@@ -42,4 +43,5 @@ The snowflake schema with table calendar
 
 
 **Visualisations**
-![image (7)](https://github.com/user-attachments/assets/46e8ab7a-ac62-483b-9c8a-de9a6e63b51d)
+![image](https://github.com/user-attachments/assets/e732f6ef-262b-4806-8650-506e6e5f267d)
+
