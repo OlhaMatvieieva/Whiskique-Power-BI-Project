@@ -1,5 +1,5 @@
-# Whiskique---Power-BI-Project
-Analyze a dataset to create a report (dashboard-style) that will answer questions about the company's overall performance and opportunities for improvement
+# Whiskique-Power-BI-Project
+
 **Whiskique** is a company which sales pet products online. I have been hired as an analyst and have to analyze a dataset to create a report (dashboard-style) that will answer questions about the company's overall performance and opportunities for improvement.
 
 ![image (1)](https://github.com/user-attachments/assets/6e5040b0-001e-4825-8062-0c13f4d438d7)
