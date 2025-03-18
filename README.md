@@ -1,47 +1,41 @@
-# Whiskique-Power-BI-Project
+# Whiskique Power BI Dashboard
 
-**Whiskique** is a company which sales pet products online. I have been hired as an analyst and have to analyze a dataset to create a report (dashboard-style) that will answer questions about the company's overall performance and opportunities for improvement.
+## 📊 Project Overview
+This project analyzes **customer behavior and sales performance** for Whiskique, an e-commerce platform specializing in pet products. Using **Power BI**, I developed an **interactive dashboard** to help the business track sales trends, customer distribution, and product performance.
 
+## Key Insights
+- **Total Customers**: 3.15K customers across multiple regions.
+- **Sales Performance**: $1.21M total revenue, with the highest sales in 2021 ($1.13M).
+- **Product Categories**: The top-selling categories include **Food, Grooming, and Pet Supplements**.
+- **Regional Sales Insights**: The East region leads in revenue ($0.53M), followed by Central ($0.38M) and West ($0.29M).
+- **Invoices Processed**: 10K total invoices, with 66K total products sold.
+
+## Tools & Technologies
+- **Power BI** (Data Visualization, Dashboard Design)
+- **Power Query** (Data Cleaning)
+- **DAX** (Advanced Calculations, KPI Metrics)
+- **ETL** (Data Transformation & Preparation)
+
+## Dashboard Screenshot
 ![image](https://github.com/user-attachments/assets/26ca1d24-0d3e-4aa8-8c35-1ae8b742e1d0)
 
+## Business Impact
+- **Optimized Product Strategy**: Identified best-performing categories and improved inventory planning.
+- **Enhanced Regional Targeting**: Focused marketing efforts on high-revenue regions.
+- **Improved Customer Engagement**: Analyzed customer purchasing behavior to refine loyalty programs.
 
+## Data Source
+- **fact_sales.csv** – Sales transactions, revenue, invoices.
+- **dim_customers.csv** – Customer demographics and locations.
+- **dim_products.csv** – Product categories and details.
+- **state_region_mapping.csv** – Mapping of states to sales regions.
 
-In this project I learned how to Import Data, Clean Data in Power Query, Model, DAX queries, Visualisations 
+## Project Files
+- **Power BI Dashboard** (.pbix) – [Download Link](https://github.com/OlhaMatvieieva/Whiskique-Power-BI-Project/raw/refs/heads/main/Whiskique.pbix)
 
-**Clean data in Power Query**
+## Future Improvements
+- Implement **predictive analytics** to forecast future sales trends.
+- Enhance **customer segmentation** for personalized marketing strategies.
 
-On screenshots represented Power Query window where is an opportunity to manipulate with data: transform columns(promote headers, split columns, different formatting), change type of columns, filter rows, make uppercase text…
-![image (2)](https://github.com/user-attachments/assets/eb094800-87cb-471a-bfcd-6ceb9182b823)
-
-![image (3)](https://github.com/user-attachments/assets/974eba0e-3d43-4293-8877-f070d6fcfe61)
-
-
-**Making a Model**
-
-The snowflake schema with table calendar
-
-![image (4)](https://github.com/user-attachments/assets/752f34fa-99a8-4e1d-a780-acacec326a1d)
-
-
-**Relationships**
-
-![image (5)](https://github.com/user-attachments/assets/efccaf30-53d3-4a63-85ff-d3cba5adbb97)
-
-
-**Calendar with DAX** 
-
-![image (6)](https://github.com/user-attachments/assets/4a0ac033-6064-4dff-8a17-290a1821f2c3)
-
-
-**Measures with DAX**
-
-![image (8)](https://github.com/user-attachments/assets/6b86f2ec-cbfa-4166-a11a-0b6f160e7a7c)
-
-
-![image (9)](https://github.com/user-attachments/assets/864bb75a-bdfa-47c8-a12d-40b3224cb8db)
-
-
-
-**Visualisations**
-![image](https://github.com/user-attachments/assets/e732f6ef-262b-4806-8650-506e6e5f267d)
-
+## Author
+**Olha Matvieieva** | [LinkedIn](https://www.linkedin.com/in/olha-matvieieva) | [Portfolio](https://github.com/OlhaMatvieieva)
